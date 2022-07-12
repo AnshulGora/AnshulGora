@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://anshulgora.github.io/anshul-gora/](https://anshulgora.github.io/anshul-gora/)
+- 👨‍💻 All of my projects are available at [https://anshulgora.github.io/ianshulgora/](https://anshulgora.github.io/ianshulgora/)
 
 - 📫 How to reach me **ianshulgora@gmail.com**
 
