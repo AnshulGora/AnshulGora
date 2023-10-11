@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshul Gora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://anshulgora.github.io/ianshulgora/](https://anshulgora.github.io/ianshulgora/)
+- 👨‍💻 All of my projects are available at [anshul-gora](https://anshulwork.netlify.app/)
 
 - 📫 How to reach me **ianshulgora@gmail.com**
 
