@@ -1,3 +1,6 @@
+
+![Github banner](https://github.com/AnshulGora/AnshulGora/assets/75837854/edac2b93-0054-4a60-a704-6896c3a8de92)
+
 <h1 align="center">Hi 👋, I'm Anshul Gora</h1>
 <h3 align="center">A Passionate frontend developer/designer from India</h3>
 
